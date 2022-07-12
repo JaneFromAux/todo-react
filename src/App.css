@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.toDone {
+  background-color: lime;
+}
+
+.toDo {
+  background-color: crimson;
+}
